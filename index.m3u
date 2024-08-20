@@ -229,7 +229,7 @@ http://opplextv.cyou:8080/live/773199/626227/245900.ts
 http://opplextv.cyou:8080/live/773199/626227/245895.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="COLORS BANGLA CINEMA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8c/Colors_Bangla_Cinema.png/revision/latest?cb=20200720045951" group-title="KOLKATA", COLORS BANGLA CINEMA
-https://madplay.live/hls/jiotv/stream.php?id=1657&e=.m3u8
+http://tv.digitalview.live:8080/play/ku8OB3vrzffgNPMos00OKIKJT2iCQYkUPXUW44SMaiJz2Y7FnGfPFYVzOpj-GbAK/ts
 
 #EXTINF:-1 group-title="KOLKATA" tvg-logo="https://i.postimg.cc/L4nx2ZGn/image.jpg",Sun Bangla 
 http://opplextv.cyou:8080/live/773199/626227/245906.ts
