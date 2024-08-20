@@ -213,6 +213,9 @@ http://172.28.28.20:8099/ch2/index.m3u8
 http://xtv.ooo:8080/12dd12dd12/445566/245897
 
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/9F9RWxLr/images-5-26.jpg"group-title="KOLKATA",Star Jalsha HD
+https://yupptvcatchupire.yuppcdn.net/preview/starjalsha/1800.m3u8?hdnts=
+
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/9F9RWxLr/images-5-26.jpg"group-title="KOLKATA",Star Jalsha HD
 http://opplextv.cyou:8080/live/773199/626227/245898.ts
 
 #EXTINF:-1 group-title="KOLKATA" tvg-logo="https://i.postimg.cc/bY79PVQB/images-5-28.jpg",Star Jalsha Movies
