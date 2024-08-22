@@ -507,10 +507,15 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-realmadrid-ci
 
 
 
-
+#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLYgRc1lrUmKeVJj7_85fqp-81xHzGuKGsGQ&usqp=CAU",Discovery Bangla
+http://14.102.123.50:5001/render.m3u8?auth=EelAmcQ8oqOaeA3WOdIDaXAAZWMNskjICZ6g0GmSwRdIyCSn-NXnB8AZUxIhF-mzfyKs9viDtPXkkMMGDPmPC8qD13BKtyVYk6aULoihR839TclvvUdTh0dAdGICj2jqgWL2bfJ9hftByM_A2OiZK3xacV1roqwWJf14phatoNNgtoqCM05VJWjwxJ4DfR7RLL2RWK_KpU_EzRyRiky1LPbChdh9q_PLmTKCp6VZTsfNLhfq3HKKKgGrzxE3rMidzjuvmpnceHSE3aQC3iOmr66fnkB0DdUhpTBsSHvj6CCQiKIjTD_XUnGmGRUPQA_DAMmyc1ctIgSVE7uRYrUZXMTLNLXKQPrat97CY8LBfWWxcNl_8tIDaTHV0spOEOva&channel_key_id=573
 
 #EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLYgRc1lrUmKeVJj7_85fqp-81xHzGuKGsGQ&usqp=CAU",Discovery Bangla
 https://varun-iptv.netlify.app/m3u/discoverybengali.m3u8
+
+#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://i.imgur.com/g7I8nnR.png",National Geographic Bangla 
+http://opplextv.cyou:8080/live/773199/626227/109977.ts
+
 
 #EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://i.imgur.com/g7I8nnR.png",National Geographic 
 http://opplextv.cyou:8080/live/773199/626227/109977.ts
